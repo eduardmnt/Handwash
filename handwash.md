@@ -1,6 +1,3 @@
----
-output: html_document
----
 
 ## 1. Handwashing research made by Dr Ignaz Semmelweis
 
@@ -168,7 +165,7 @@ labs( x = "Proportion of deaths" , y = "Date", title = "Proportion of deaths ove
 ```
 
 
-![png](output_13_0.png)
+![output_13_0](https://user-images.githubusercontent.com/65306351/119239881-de877b80-bb54-11eb-9e87-d1acafb132b3.png)
 
 
 
