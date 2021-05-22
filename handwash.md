@@ -106,7 +106,8 @@ ggplot(yearly, aes(x = proportion_deaths, y = year, color = clinic)) + geom_line
 ```
 
 
-![png](output_7_0.png)
+![output_7_0](https://user-images.githubusercontent.com/65306351/119239868-b8fa7200-bb54-11eb-9cda-97708820d020.png)
+
 
 
 
