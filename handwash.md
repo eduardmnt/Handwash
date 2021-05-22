@@ -189,7 +189,7 @@ geom_line()
 ```
 
 
-![png](output_16_0.png)
+![output_16_0](https://user-images.githubusercontent.com/65306351/119239897-04148500-bb55-11eb-8da4-cb7ed8cda3a9.png)
 
 
 
